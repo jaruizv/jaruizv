@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaruizv
-- 👀 I’m interested in Computational Physics
+- 👀 I’m interested in Computational Physics and Data Analysis
 - 🌱 I’m currently learning Engineering Physics
 
 
