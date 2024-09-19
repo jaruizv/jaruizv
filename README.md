@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaruizv
-- 👀 I’m interested in Computational Physics and Data Analysis
-- 🌱 I’m currently learning Engineering Physics
+- 👀 I’m interested in Computational Physics, spectroscopy techniques and Data Analysis
+- 🌱 I’m an Engineering Physics Senior Undergraduate Student at Costa Rica Institute of Technology
 
 
 <!---
